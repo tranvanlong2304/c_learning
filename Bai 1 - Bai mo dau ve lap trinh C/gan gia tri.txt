@@ -1,0 +1,26 @@
+//kieu du lieu , ten bien
+//input , output
+//operator ; toan tu 
+//-------------
+// gan
+// #include <stdio.h>
+//  int main(){
+//      int a = 3, b = 2;
+//      int tong = a + b;
+//      int hieu = a - b;
+//      int tich = a * b;
+//      float thuong = 1.00 * a / b; // lay mot so thuc nhan voi so a or b
+//      int du = a % b;
+//      printf ("tong : %d, hieu : %d, tich : %d, thuong : %.2f, du : %d", tong, hieu, tich, thuong, du);
+//       return 0;
+     
+//  }
+// chu y neu so a or b qua lon thi ta dung long long
+// #include <stdio.h>
+// int main(){
+//     int a = 100000000, b = 10000000;
+//     long long tich = 1ll * a * b;
+//     printf ("tich : %lld", tich);
+//      return 0;
+// }
+// long long * a * b moi duoc

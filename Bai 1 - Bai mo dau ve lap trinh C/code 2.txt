@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main (){
+    float longg = 20.9;
+    printf ("%f", longg);
+    return 0;
+}
