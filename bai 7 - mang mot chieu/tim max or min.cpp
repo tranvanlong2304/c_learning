@@ -1,6 +1,5 @@
-// tim so lon nhat va so nho nhat trong mang
-#include <stdio.h>
-#include <math.h>
+#include <bits/stdc++.h>
+using namespace std;
  int nt(int n){
  	for(int i = 2; i <= sqrt(n); i++){
  		if(n % i == 0)
